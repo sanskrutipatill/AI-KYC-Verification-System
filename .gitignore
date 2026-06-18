@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+.venv_kyc/
+
+logs/
+temp/
+
+.env
+.env.*
+
+.vscode/
+.idea/
+
+*.log
